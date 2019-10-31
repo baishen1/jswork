@@ -1,10 +1,7 @@
-//"计算"按钮点击处理函数
 function calculate(){
-    //读取阶数输入框的数值
     let num = document.getElementById('').value
     num = parseInt (num)&&Number(num)
     if(!isNaN(num)){
-        //设置圆周率输入框的值
         document.getElementById('').value = pi()
     }
 }
