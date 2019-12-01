@@ -7,4 +7,4 @@ for(var i in arr){
         ++index;
     }
 }
-document.getElementById('trabsArray').innerHTML = nweArr.toString()
+document.getElementById('transArray').innerHTML = nweArr.toString()
