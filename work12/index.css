@@ -2,7 +2,7 @@ body {
     text-align: center;
 }
 
-.selyear {
+.selyear{
     margin: 0 auto;
     width: 720px;
 }
@@ -11,20 +11,20 @@ body {
     float: left;
 }
 
-.nextyear {
+.nextyear{
     float: right;
 }
 
-.box {
+.box{
     margin: 0 auto;
     width: 720px;
 }
 
-.title {
-     background: #ccc;
+.title{
+    background:  #ccc;
 }
 
-table {
+table { 
     height: 160px;
     width: 160px;
     font-size: 12px;
